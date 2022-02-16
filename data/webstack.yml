@@ -1,0 +1,67 @@
+---
+- taxonomy: 北屿
+  icon: fa-lightbulb-o
+  links:
+    - title: 个人主页
+      logo: https://blog.bj-yan.top/favicon.jpg
+      url: https://www.bj-yan.top/
+      description: 学术主页，很正经的介绍
+    - title: 个人博客
+      logo: https://blog.bj-yan.top/favicon.jpg
+      url: https://blog.bj-yan.top/
+      description: 分享一些没用的东西
+    - title: 个人导航
+      logo: https://blog.bj-yan.top/favicon.jpg
+      url: https://www.bj-yan.top/nav/
+      description: 个人导航网站，正如你所看到的
+
+# - taxonomy: 常用推荐
+#   icon: fa-star
+#   links:
+
+- taxonomy: 常用学术网站
+  icon: fa-graduation-cap
+  links:
+    - title: Google Scholar
+      logo: https://scholar.google.com/favicon.ico
+      url: https://scholar.google.com/
+      description: Google Scholar
+
+- taxonomy: 素材资源
+  icon: fa-thumbs-up
+  list:
+    - term: 图标素材
+      links:
+        - title: iconfont
+          logo: assets/images/logos/iconfont.png
+          url: http://www.iconfont.cn/
+          description: 阿里巴巴矢量图标库
+
+    - term: 字体资源
+      links:
+        - title: 方正字库
+          url: http://www.foundertype.com/
+          logo: assets/images/logos/Fondertype.png
+          description: 方正字库官方网站
+
+- taxonomy: 常用工具
+  icon: fa-diamond
+  list:
+    - term: 在线绘图
+      links:
+        - title: Draw.io
+          url: http://www.draw.io/
+          logo: https://app.diagrams.net/images/favicon-32x32.png
+          description: 画板
+        - title: 手绘风绘图
+          url: https://excalidraw.com/
+          logo: https://blog.excalidraw.com/favicon-32x32.png?v=b2dad9018f8a69c2ae0275969a8a4c37
+          description: 手绘风绘图
+
+- taxonomy: 二刺猿含量过高
+  icon: fa-heart
+  links:
+    - title: Waifu Generator
+      url: https://waifulabs.com/generate
+      logo: assets/images/logos/waifugenerator.png
+      description: 二刺猿头像生成器

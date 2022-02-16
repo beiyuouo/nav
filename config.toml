@@ -1,0 +1,15 @@
+baseURL = "https://www.bj-yan.top/nav"
+languageCode = "zh-CN"
+title = "♥北屿の个人导航网站♥"
+theme = "webstack"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = "北屿"
+[params]
+  author = "北屿"
+  description = "Personal Navigation Website"
+[params.search]
+  enable = true
+[params.darkmode]
+  enable = false
