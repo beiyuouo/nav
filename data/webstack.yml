@@ -52,6 +52,11 @@
       url: https://readpaper.com/
       description: 中文论文分享交流社区
 
+    - title: Arxiv Daily
+      logo: http://arxivdaily.com/favicon.ico
+      url: http://arxivdaily.com/
+      description: arXiv 每日学术速递
+
     - title: Z-lib
       logo: https://z-lib.org/favicon.ico
       url: https://z-lib.org/
