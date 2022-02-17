@@ -73,7 +73,8 @@
                         <ul>
                             {{ range .list }}
                             <li>
-                                <a href="#{{ md5 .term }}" class="smooth">{{ .term }}</a>
+
+                                <a href="#{{ md5 .term }}" class="smooth"><i class="fa fa-tag fa-fw"></i>{{ .term }}</a>
                             </li>
                             {{ end }}
                         </ul>
@@ -169,7 +170,7 @@
             <div class="sites-list" style="margin-bottom: 8.5rem;">
                 {{ range .Site.Data.webstack }} {{ if .list }} {{ range .list }}
                 <!-- {{ .term }} -->
-                <h4 class="text-gray" style="display: inline-block;"><i class="icon-io-tag" style="margin-right: 27px;" id="{{ md5 .term }}"></i>{{ .term }}</h4>
+                <h4 class="text-gray" style="display: inline-block;"><i class="fa fa-tags fa-fw" style="margin-right: 27px;" id="{{ md5 .term }}"></i>{{ .term }}</h4>
                 <div class="row">
                     {{ range .links }}
                     <div class="col-sm-3">
@@ -193,7 +194,7 @@
                 <!--END {{ .term }} -->
                 {{ end }} {{ else }}
                 <!-- {{ .taxonomy }} -->
-                <h4 class="text-gray" style="display: inline-block;"><i class="icon-io-tag" style="margin-right: 27px;" id="{{ md5 .taxonomy }}"></i>{{ .taxonomy }}</h4>
+                <h4 class="text-gray" style="display: inline-block;"><i class="fa {{ .icon }} fa-fw" style="margin-right: 27px;" id="{{ md5 .taxonomy }}"></i>{{ .taxonomy }}</h4>
                 <div class="row">
                     {{ range .links }}
                     <div class="col-sm-3">

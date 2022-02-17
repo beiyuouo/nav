@@ -12,7 +12,7 @@
       description: 分享一些没用的东西
     - title: GitHub 主页
       logo: ./assets/images/logos/github.svg
-      url: https://www.bj-yan.top/nav/
+      url: https://github.com/beiyuouo/
       description: 开源共享
 
 # - taxonomy: 常用推荐
@@ -58,6 +58,11 @@
           logo: assets/images/logos/iconfont.png
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库
+
+        - title: Font Awesome
+          logo: assets/images/logos/fontawesomeicon.png
+          url: https://fontawesome.com/
+          description: 国外矢量图标库
 
     - term: 字体资源
       links:
