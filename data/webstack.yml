@@ -106,9 +106,12 @@
 - taxonomy: 摸鱼时刻
   icon: fa-hand-spock-o
   links:
-    - title:
+    - title: 小霸王，其乐无穷
+      logo: assets/images/logos/yikm.png
+      url: https://www.yikm.net/
+      description: 小游戏聚合网站
 
-- taxonomy: 媒体资源
+- taxonomy: 媒体影音
   icon: fa-video-camera
   links:
     - title: 茶杯狐
