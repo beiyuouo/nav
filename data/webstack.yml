@@ -25,7 +25,47 @@
     - title: Google Scholar
       logo: https://scholar.google.com/favicon.ico
       url: https://scholar.google.com/
-      description: Google Scholar
+      description: 谷歌学术
+
+    - title: arXiv e-Print Archive
+      logo: https://arxiv.org/favicon.ico
+      url: https://arxiv.org/
+      description: arXiv 预印版
+
+    - title: SCI-HUB
+      logo: https://sci-hub.ren//favicon.ico
+      url: https://sci-hub.ren/
+      description: 中文科技文献
+
+    - title: Connected Paper
+      logo: https://www.connectedpapers.com/favicon.ico
+      url: https://www.connectedpapers.com/
+      description: 查看论文引用关系网络
+
+    - title: Recent Papers
+      logo: https://papers.labml.ai/favicon.ico
+      url: https://papers.labml.ai/papers/recent/
+      description: 国际论文趋势交流社区
+
+    - title: Read Paper
+      logo: https://readpaper.com/favicon.ico
+      url: https://readpaper.com/
+      description: 中文论文分享交流社区
+
+    - title: Z-lib
+      logo: https://z-lib.org/favicon.ico
+      url: https://z-lib.org/
+      description: 英文书籍检索
+
+    - title: Zotero
+      logo: https://www.zotero.org/favicon.ico
+      url: https://www.zotero.org/
+      description: 文献管理
+
+    - title: Paper With Code
+      logo: https://production-media.paperswithcode.com/tasks/default.gif
+      url: https://paperwithcode.com/
+      description: 代码论文分享
 
     - title: 会伴
       logo: https://www.myhuiban.com/themes/abound/img/icons/favicon.ico
@@ -36,6 +76,37 @@
       logo: https://ccfddl.github.io/favicon.ico
       url: https://ccfddl.github.io/
       description: CCF 会议截止时间
+
+- taxonomy: 数据竞赛
+  icon: fa-wheelchair-alt
+  links:
+    - title: Kaggle
+      logo: https://www.kaggle.com/favicon.ico
+      url: https://www.kaggle.com/
+      description: 国际数据竞赛平台
+
+    - title: DataFountain
+      logo: https://www.datafountain.cn/favicon.ico
+      url: https://www.datafountain.cn/
+      description: 国内数据竞赛平台
+
+    - title: CodaLab
+      logo: https://competitions.codalab.org/static/img/favicon.ico
+      url: https://competitions.codalab.org/
+      description: 顶会竞赛
+
+- taxonomy: 冲浪时刻
+  icon: fa-hand-o-right
+  links:
+    - title: 鱼塘热榜
+      logo: https://mo.fish/fish.ico
+      url: https://mo.fish/
+      description: 聚合新闻热榜
+
+- taxonomy: 摸鱼时刻
+  icon: fa-hand-spock-o
+  links:
+    - title:
 
 - taxonomy: 媒体资源
   icon: fa-video-camera
@@ -85,7 +156,7 @@
           logo: https://blog.excalidraw.com/favicon-32x32.png?v=b2dad9018f8a69c2ae0275969a8a4c37
           description: 手绘风绘图
 
-- taxonomy: 二刺猿含量过高
+- taxonomy: 二刺猿浓度过高
   icon: fa-heart
   links:
     - title: Waifu Generator
