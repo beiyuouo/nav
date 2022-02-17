@@ -27,6 +27,28 @@
       url: https://scholar.google.com/
       description: Google Scholar
 
+    - title: 会伴
+      logo: https://www.myhuiban.com/themes/abound/img/icons/favicon.ico
+      url: https://www.myhuiban.com/
+      description: 学术会议查询
+
+    - title: CCFDDL
+      logo: https://ccfddl.github.io/favicon.ico
+      url: https://ccfddl.github.io/
+      description: CCF 会议截止时间
+
+- taxonomy: 媒体资源
+  icon: fa-video-camera
+  links:
+    - title: 茶杯狐
+      url: https://cupfox.app/
+      logo: assets/images/logos/cupfox.png
+      description: 影视资源聚合搜索
+
+    - title: BTNULL
+      url: https://www.btnull.org/
+      description: 免费的影视资源站点
+
 - taxonomy: 素材资源
   icon: fa-thumbs-up
   list:

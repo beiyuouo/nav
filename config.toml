@@ -1,6 +1,6 @@
-baseURL = "https://www.bj-yan.top/nav"
+baseURL = "https://nav.bj-yan.top/"
 languageCode = "zh-CN"
-title = "♥北屿の个人导航网站♥"
+title = "♥ 北屿の个人导航网站 ♥"
 theme = "webstack"
 preserveTaxonomyNames = true
 disablePathToLower = true
