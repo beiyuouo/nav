@@ -165,7 +165,7 @@
           description: 手绘风绘图
 
 - taxonomy: 二刺猿浓度过高
-  icon: fa-heart
+  icon: fa-hand-peace-o
   links:
     - title: Waifu Generator
       url: https://waifulabs.com/generate
