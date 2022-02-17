@@ -1304,7 +1304,7 @@ body {
 .sidebar-menu {
     display: table-cell;
     position: relative;
-    width: 340px;
+    width: 280px;
     background: #232323;
     z-index: 1
 }

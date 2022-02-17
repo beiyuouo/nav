@@ -690,7 +690,7 @@ $("a.smooth").click(function(e) {
 });
 (function() {
     if (document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") === '') {
-        if (new Date().getHours() > 22 || new Date().getHours() < 6) {
+        if (new Date().getHours() > 18 || new Date().getHours() < 8) {
             document.body.classList.add('night');
             document.cookie = "night=1;path=/";
             console.log('夜间模式开启');

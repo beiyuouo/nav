@@ -10,10 +10,10 @@
       logo: https://blog.bj-yan.top/favicon.jpg
       url: https://blog.bj-yan.top/
       description: 分享一些没用的东西
-    - title: 个人导航
-      logo: https://blog.bj-yan.top/favicon.jpg
+    - title: GitHub 主页
+      logo: ./assets/images/logos/github.svg
       url: https://www.bj-yan.top/nav/
-      description: 个人导航网站，正如你所看到的
+      description: 开源共享
 
 # - taxonomy: 常用推荐
 #   icon: fa-star
