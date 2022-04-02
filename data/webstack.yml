@@ -116,6 +116,11 @@
       url: https://www.yikm.net/
       description: 小游戏聚合网站
 
+    - title: 炒饭 - 网络迷踪
+      logo: https://avatars.githubusercontent.com/u/65181088?s=200&v=4
+      url: https://chao.fun/f/84
+      description: 网络迷踪爱好者
+
 - taxonomy: 媒体影音
   icon: fa-video-camera
   links:
