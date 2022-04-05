@@ -14,6 +14,10 @@
       logo: ./assets/images/logos/github.svg
       url: https://github.com/beiyuouo/
       description: 开源共享
+    - title: 知识库
+      logo: ./assets/images/logos/favicon.jpg
+      url: https://www.bj-yan.top/roadmap/
+      description: 个人知识库
 
 # - taxonomy: 常用推荐
 #   icon: fa-star
